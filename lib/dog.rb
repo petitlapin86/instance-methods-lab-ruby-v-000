@@ -4,7 +4,7 @@ def bark #I am defining an instance
   puts "Woof!"
 end
 
-def sit 
+def sit
   puts "Sit!"
 end 
 
