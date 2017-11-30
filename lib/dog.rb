@@ -6,6 +6,6 @@ end
 
 def sit
   puts "The dog is sitting"
-end 
+end
 
 end # I am ending the class
