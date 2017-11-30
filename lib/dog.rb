@@ -5,7 +5,7 @@ def bark #I am defining an instance
 end
 
 def sit
-  puts "The dog is sitting"
+  puts "The Dog is sitting"
 end
 
 end # I am ending the class
